@@ -1,25 +1,4 @@
 PODS:
-  - BloodMagic (1.0.0):
-    - BloodMagic/Core (= 1.0.0)
-    - BloodMagic/Final (= 1.0.0)
-    - BloodMagic/Initializers (= 1.0.0)
-    - BloodMagic/Injectable (= 1.0.0)
-    - BloodMagic/Lazy (= 1.0.0)
-    - BloodMagic/Partial (= 1.0.0)
-    - BloodMagic/Preference (= 1.0.0)
-  - BloodMagic/Core (1.0.0)
-  - BloodMagic/Final (1.0.0):
-    - BloodMagic/Core
-  - BloodMagic/Initializers (1.0.0):
-    - BloodMagic/Core
-  - BloodMagic/Injectable (1.0.0):
-    - BloodMagic/Initializers
-  - BloodMagic/Lazy (1.0.0):
-    - BloodMagic/Core
-  - BloodMagic/Partial (1.0.0):
-    - BloodMagic/Core
-  - BloodMagic/Preference (1.0.0):
-    - BloodMagic/Core
   - KIF (3.5.1):
     - KIF/Core (= 3.5.1)
   - KIF/Core (3.5.1)
@@ -62,14 +41,12 @@ PODS:
   - PureLayout (1.1.0)
 
 DEPENDENCIES:
-  - BloodMagic (~> 1.0)
   - KIF (~> 3.2)
   - libextobjc (~> 0.4)
   - OCMock (~> 3.1)
   - PureLayout (~> 1.1)
 
 SPEC CHECKSUMS:
-  BloodMagic: 231ba1db75ceb3e5b8c2c888dcefb235b2b8dec6
   KIF: 082eb65279e51c3092923802849eb796a04982ab
   libextobjc: a650fc1bf489a3d3a9bc2e621efa3e1006fc5471
   OCMock: f3f61e6eaa16038c30caa5798c5e49d3307b6f22

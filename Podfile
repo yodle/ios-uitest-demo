@@ -2,7 +2,6 @@ source 'https://github.com/CocoaPods/Specs.git'
 
 #Back End
 pod 'libextobjc', '~> 0.4'	#Adds @strongify and @weakify
-pod 'BloodMagic', '~> 1.0'	#Dependency injection
 
 #Front End
 pod 'PureLayout', '~> 1.1'	#Auto layout helpers
