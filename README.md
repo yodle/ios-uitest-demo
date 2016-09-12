@@ -1,5 +1,3 @@
 # How to Unit Test View Controllers
 
-Sample code project to accompany the iOSoho meetup on 9/12/16:
-
-http://www.meetup.com/iOSoho/events/230353301/
+Automated testing is something we should all do more of. It's easy to unit test logical classes, but what about views and view controllers? The multi-screen testing approach taken by tools like Appium and XCUITest are slow and fragile. Martin will show an architectural pattern that allows you test multiple permutations of a view controller in isolation for better test coverage of your UI's.
