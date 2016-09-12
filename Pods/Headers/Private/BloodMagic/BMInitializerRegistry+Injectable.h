@@ -1,0 +1,1 @@
+../../../BloodMagic/BloodMagic/Sources/Modules/Injectable/Private/BMInitializerRegistry+Injectable.h

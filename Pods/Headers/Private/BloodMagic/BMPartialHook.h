@@ -1,0 +1,1 @@
+../../../BloodMagic/BloodMagic/Sources/Modules/Partial/Private/BMPartialHook.h

@@ -1,0 +1,1 @@
+../../../BloodMagic/BloodMagic/Sources/Modules/Core/Private/Injectors/BMDynamicPropertyInjector.h

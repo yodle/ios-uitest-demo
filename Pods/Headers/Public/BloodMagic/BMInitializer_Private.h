@@ -1,0 +1,1 @@
+../../../BloodMagic/BloodMagic/Sources/Modules/Initializers/Public/BMInitializer_Private.h
